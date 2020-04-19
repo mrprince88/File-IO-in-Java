@@ -3,8 +3,8 @@ import java.util.*;
 
 class Main {
 
-	static private final String INPUT = "input.txt";
-	static private final String OUTPUT = "output.txt";
+	static private final String INPUT = "input.txt";  // address of the input file in inverted commas
+	static private final String OUTPUT = "output.txt"; //address of the output file in inverted commmas
 
 	public static void main(String[] args) {
 

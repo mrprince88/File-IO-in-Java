@@ -1,3 +1,4 @@
 # File IO in Java
 
-This is a specimen template to used in competitive progrmming contest
+This is a template to be used in competitive progrmming contest
+for file i/o.
